@@ -23,7 +23,7 @@ export default function Navbar() {
         <span class="sr-only">Open user menu</span>
         
 
-        <img class="w-8 h-8 rounded-full" src="/docs/images/people/profile-picture-3.jpg" alt="user photo"/>
+        <img class="w-8 h-8 rounded-full" src="https://media.istockphoto.com/id/615279718/photo/businesswoman-portrait-on-white.jpg?s=612x612&w=0&k=20&c=Aa2Vy4faAPe9fAE68Z01jej9YqPqy-RbAteIlF3wcjk=" alt="user photo"/>
       </button>
       &nbsp; <span class="material-symbols-outlined">
 arrow_drop_down

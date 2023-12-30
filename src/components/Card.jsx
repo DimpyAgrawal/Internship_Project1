@@ -71,7 +71,7 @@ const Item = ({ item, onDelete, onEdit }) => {
                     {isEditing ? (
                         <input
                             type="text"
-                            className="mb-3 px-2 py-1 border border-gray-300 rounded-lg focus:outline-none focus:border-blue-500"
+                            className="mb-3 px-2 py-1 w-[160px] border border-gray-300 rounded-lg focus:outline-none focus:border-blue-500"
                             value={editedText}
                             onChange={(e) => setEditedText(e.target.value)}
                         />
